@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>bi_linux</title>
+      <title>Ubuntu系统安装</title>
       <link href="/2026/01/28/bi-linux/"/>
       <url>/2026/01/28/bi-linux/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>对于生物信息而言，linux系统是一个离不开的工具，许多生物信息工具在windows系统上安装、运行过程中（如bwa）往往会出现各种各样的问题，并且Linux系统具有开源、免费、自由度高的特点。</p><h1 id="配置linux系统的方式"><a href="#配置linux系统的方式" class="headerlink" title="配置linux系统的方式"></a>配置linux系统的方式</h1><p>主要包括虚拟机，wls以及双系统。这里主要介绍如何重装Linux系统</p>]]></content>
       
       
       
@@ -62,7 +62,7 @@
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<div class="gallery-group-main"><figure class="gallery-group">    <img class="gallery-group-img no-lightbox" src='/img/butterfly_icon.png%7D' alt="Group Image Gallery">    <figcaption>      <div class="gallery-group-name">博客搭建</div>      <p>从搭建到美化</p>      <a href='/2026/01/27/how-to-establishblog'></a>    </figcaption>  </figure>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
