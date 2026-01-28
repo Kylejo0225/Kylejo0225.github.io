@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>bi_linux</title>
+      <link href="/2026/01/28/bi-linux/"/>
+      <url>/2026/01/28/bi-linux/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Git连接异常处理</title>
+      <link href="/2026/01/28/buildproblem1/"/>
+      <url>/2026/01/28/buildproblem1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在国内使用Git等外网总会出现各种连接异常，即便挂了VPN（注意科学上网）也总是还是会出现连接问题<br>例如在<code>hexo d</code>步骤时候出现如下报错：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">fatal: unable to access <span class="string">&#x27;https://github.com/xxx/xxx.github.io.git/&#x27;</span>: Failed to connect to github.com port 443 via 127.0.0.1 after 2111 ms: Could not connect to server</span><br><span class="line">FATAL Something<span class="string">&#x27;s wrong. Maybe you can find the solution here: https://hexo.io/docs/troubleshooting.html</span></span><br><span class="line"><span class="string">Error: Spawn failed</span></span><br><span class="line"><span class="string">    at ChildProcess.&lt;anonymous&gt; (D:\xxx\xxx\node_modules\.store\hexo-util@2.7.0\node_modules\hexo-util\lib\spawn.js:51:21) </span></span><br><span class="line"><span class="string">    at ChildProcess.emit (node:events:508:28)</span></span><br><span class="line"><span class="string">    at cp.emit (D:\xxx\xxx\node_modules\.store\cross-spawn@7.0.6\node_modules\cross-spawn\lib\enoent.js:34:29)</span></span><br><span class="line"><span class="string">    at ChildProcess._handle.onexit (node:internal/child_process:294:12)</span></span><br></pre></td></tr></table></figure><p>往往说明<code>网络连接异常</code><br>我们需要手动调整Git的网络代理接口</p><h1 id="查看自己的服务器代理接口"><a href="#查看自己的服务器代理接口" class="headerlink" title="查看自己的服务器代理接口"></a>查看自己的服务器代理接口</h1><p>1.打开自己的控制面板并点击<code>网络与Internet</code>选项<br><img src="/imgs/blog_img/prob1.png"><br>2.再点击<code>Internet选项</code>进入<code>Internet属性</code>界面<br><img src="/imgs/blog_img/prob2.png"><br>3.选择<code>连接</code>卡片，再点击<code>局域网设置</code><br><img src="/imgs/blog_img/prob3.png"><br>由此可以查看到<code>代理服务器</code>的<code>地址</code>和<code>端口</code></p><h1 id="更改Git代理接口"><a href="#更改Git代理接口" class="headerlink" title="更改Git代理接口"></a>更改Git代理接口</h1><p>在Git bash中输入</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#以我的为例，具体的要看自己的代理服务器</span></span><br><span class="line">$ git config --global http.proxy http://127.0.0.1:32210</span><br><span class="line">$ git config --global https.proxy http://127.0.0.1:32210</span><br></pre></td></tr></table></figure><p>完成之后<code>hexo d</code>步骤会非常顺畅</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客搭建 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>如何搭建个人博客</title>
+      <link href="/2026/01/27/how-to-establishblog/"/>
+      <url>/2026/01/27/how-to-establishblog/</url>
+      
+        <content type="html"><![CDATA[<h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h1><p>很早之前就想搭建一个自己的博客网站，但是之前由于转专业忙忙碌碌，暂时放下这个计划。终于到了寒假可以自由地学习！用了小半个下午的时间完成了这个博客的初步建设。速速来总结搭建的过程以及遇到的一些问题！</p><h2 id="个人博客的好处"><a href="#个人博客的好处" class="headerlink" title="个人博客的好处"></a>个人博客的好处</h2><ul><li>把自己所学的知识进行总结</li><li>记录美好生活</li><li>见证自己的成长</li><li>帮助其他人避开自己踩过的坑</li></ul><h2 id="基础知识"><a href="#基础知识" class="headerlink" title="基础知识"></a>基础知识</h2><p>搭建过程中所需要的知识并不多，基本跟着视频或者文档一步一步走都可以实现，视频底下的评论区也非常之有用。但是，在后面对博客网站进行更多的个性化设计的时候，需要对前端开发有一些基本的了解（我现在也不会），但是无所谓慢慢来! </p><p><strong>下面是一些在这个阶段要了解的：</strong></p><ul><li><a href="https://markdown.com.cn/">Markdown语法</a></li><li>json格式<blockquote><p>参考视频：<a href="https://b23.tv/uqyVWW6">带你快速了解Json以及Json的用法-哔哩哔哩</a></p></blockquote></li><li><a href="https://github.com/">GitHub</a></li><li>Vscode<blockquote><p>可以安装多种插件，对不同类型的文件进行编辑，并且还有终端命令行，对于管理博客数据非常方便</p></blockquote></li></ul><p><strong>搭建个人博客的参考视频：</strong></p><ul><li><a href="https://b23.tv/MCn1ZQC">零基础搭建个人博客！手把手教你用Hexo+GitHub+Zeabur打造属于你的网站!-哔哩哔哩</a></li><li><a href="https://b23.tv/KOPRulm">手把手教你搭建属于自己的hexo+github博客-哔哩哔哩</a></li></ul><h2 id="框架"><a href="#框架" class="headerlink" title="框架"></a>框架</h2><p>Hexo+GitHub+Vscode</p><h1 id="搭建流程"><a href="#搭建流程" class="headerlink" title="搭建流程"></a>搭建流程</h1><h2 id="安装Node-js"><a href="#安装Node-js" class="headerlink" title="安装Node.js"></a>安装Node.js</h2><p><strong>Node.js</strong>是一个免费、开源、跨平台的 JavaScript 运行时环境，让开发者可以创建服务器、Web 应用、命令行工具和脚本。</p><ul><li>进入Node.js的官方网站<a href="https://node.org.cn/en">https://node.org.cn/en</a>进入下载页面，下载对应的长期支持版本(LST)的msi文件</li><li>下载完成后双击msi文件，大部分按默认配置即可</li><li>检查是否安装成功(出现下面结果即成功)<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">$ node -v</span><br><span class="line">v24.13.0</span><br><span class="line">$ npm -v</span><br><span class="line">11.8.0</span><br></pre></td></tr></table></figure></li></ul><h2 id="注册GitHub"><a href="#注册GitHub" class="headerlink" title="注册GitHub"></a>注册GitHub</h2><p>进入GitHub官方网站<a href="https://github.com/">https://github.com/</a>完成注册即可</p><ul><li>创建一个叫做username.github.io的Repository<blockquote><p>若username不为自己的账户名，会导致输入该网址显示404。</p></blockquote></li></ul><h2 id="Git-for-win安装"><a href="#Git-for-win安装" class="headerlink" title="Git for win安装"></a>Git for win安装</h2><ul><li>进入Git for win的官方网站<a href="https://gitforwindows.org/">https://gitforwindows.org/</a>直接下载即可</li><li>打开cmd进行验证正确安装<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git</span><br></pre></td></tr></table></figure><strong>之后所有操作都可以在Vscode的Git bash终端中进行即可</strong></li></ul><h2 id="GitHub-SHH配置"><a href="#GitHub-SHH配置" class="headerlink" title="GitHub SHH配置"></a>GitHub SHH配置</h2><ul><li>在Git bash中输入<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ ssh-keygen -t rsa -C <span class="string">&quot;GitHub注册的邮箱地址&quot;</span></span><br><span class="line"><span class="comment">#之后一路enter即可</span></span><br></pre></td></tr></table></figure></li><li>进入C盘-用户-username-.ssh文件夹，用记事本方式打开id_sra.pub文件，复制全部内容</li><li>双击GitHub个人主页头像，点开setting，找到SSH and GPG keys，将复制内容输入即可</li></ul><h2 id="Hexo本地使用以及发布至GitHub"><a href="#Hexo本地使用以及发布至GitHub" class="headerlink" title="Hexo本地使用以及发布至GitHub"></a>Hexo本地使用以及发布至GitHub</h2><h3 id="方法一：常规安装"><a href="#方法一：常规安装" class="headerlink" title="方法一：常规安装"></a>方法一：常规安装</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-cli -g</span><br></pre></td></tr></table></figure><h3 id="方法二：换国内源安装"><a href="#方法二：换国内源安装" class="headerlink" title="方法二：换国内源安装"></a>方法二：换国内源安装</h3><p>由于国外网站国内使用时经常不稳定，建议更换<a href="https://npmmirror.com/">阿里源</a>，输入：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install -g cnpm --registry=https://registry.npmmirror.com</span><br></pre></td></tr></table></figure><p>即可完成换源<br>之后，所有npm指令换为定制的cnpm即可</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ cnpm install hexo-cli -g</span><br></pre></td></tr></table></figure><p><strong>创建储存博客数据的文件夹</strong></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init ublog#随便一名字都行</span><br></pre></td></tr></table></figure><p><strong>安装依赖</strong></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> ublog#进入该文件夹</span><br><span class="line">$ cnpm install#安装依赖</span><br></pre></td></tr></table></figure><p>到这里，个人博客的初步建设已经完成了<br>可以依次输入</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><p>查看个人博客网站，出现内容说明配置成功</p><h2 id="Hexo用法"><a href="#Hexo用法" class="headerlink" title="Hexo用法"></a>Hexo用法</h2><p>详情请见<a href="https://hexo.nodejs.cn/">https://hexo.nodejs.cn/</a>这个网址 </p><p><strong>常用指令</strong></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">hexo cl <span class="comment">#清楚之前生成的静态文件，感觉每次更新都要</span></span><br><span class="line">hexo g  <span class="comment">#发布静态文件</span></span><br><span class="line">hexo d  <span class="comment">#发布到GitHub上</span></span><br><span class="line">hexo s  <span class="comment">#查看预览</span></span><br><span class="line">hexo n <span class="string">&quot;文章名字&quot;</span> <span class="comment">#创建新的博客文章</span></span><br><span class="line">hexo n page name <span class="comment">#创建新的标签页</span></span><br></pre></td></tr></table></figure><h2 id="Butterfly主题"><a href="#Butterfly主题" class="headerlink" title="Butterfly主题"></a>Butterfly主题</h2><p>Butterfly自己的网站<a href="https://butterfly.js.org/">https://butterfly.js.org/</a>对于各个组件介绍非常详细</p><h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>恭喜在2026.1.27 KyleJO的个人博客顺利搭建完成！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客搭建 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="gallery-group-main"><figure class="gallery-group">    <img class="gallery-group-img no-lightbox" src='/img/butterfly_icon.png%7D' alt="Group Image Gallery">    <figcaption>      <div class="gallery-group-name">博客搭建</div>      <p>从搭建到美化</p>      <a href='/2026/01/27/how-to-establishblog'></a>    </figcaption>  </figure>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
