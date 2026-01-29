@@ -4,6 +4,150 @@
   
     
     <entry>
+      <title>2026 booklist</title>
+      <link href="/2026/01/29/booklist/"/>
+      <url>/2026/01/29/booklist/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Gryffindor </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 书籍 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>博客日志</title>
+      <link href="/2026/01/29/info/"/>
+      <url>/2026/01/29/info/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Hufflepuff </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客搭建 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>单倍体胚胎干细胞</title>
+      <link href="/2026/01/29/haploid/"/>
+      <url>/2026/01/29/haploid/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Slytherin </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 干细胞 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>前端开发学习</title>
+      <link href="/2026/01/29/frontend1/"/>
+      <url>/2026/01/29/frontend1/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Ravenclaw </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>molebio1</title>
+      <link href="/2026/01/29/molebio1/"/>
+      <url>/2026/01/29/molebio1/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Ravenclaw </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 分子生物 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Python学习（一）————基本语法</title>
+      <link href="/2026/01/29/python_0/"/>
+      <url>/2026/01/29/python_0/</url>
+      
+        <content type="html"><![CDATA[<p>学习</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Ravenclaw </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Ubuntu系统安装</title>
       <link href="/2026/01/28/bi-linux/"/>
       <url>/2026/01/28/bi-linux/</url>
@@ -13,10 +157,18 @@
       
       <categories>
           
-          <category> 生物信息学 </category>
+          <category> Ravenclaw </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 生物信息 </tag>
+            
+            <tag> linux </tag>
+            
+        </tags>
       
     </entry>
     
@@ -32,10 +184,16 @@
       
       <categories>
           
-          <category> 博客搭建 </category>
+          <category> Ravenclaw </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 博客搭建 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -51,44 +209,39 @@
       
       <categories>
           
-          <category> 博客搭建 </category>
+          <category> Ravenclaw </category>
           
       </categories>
       
       
+        <tags>
+            
+            <tag> 博客搭建 </tag>
+            
+        </tags>
+      
     </entry>
     
     
   
   
-    
-    
-    <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
     
     
     <entry>
       <title>归档</title>
       <link href="/archives/index.html"/>
       <url>/archives/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -111,6 +264,17 @@
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
