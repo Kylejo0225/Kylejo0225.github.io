@@ -11,6 +11,12 @@
         <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>对于生物信息而言，linux系统是一个离不开的工具，许多生物信息工具在windows系统上安装、运行过程中（如bwa）往往会出现各种各样的问题，并且Linux系统具有开源、免费、自由度高的特点。</p><h1 id="配置linux系统的方式"><a href="#配置linux系统的方式" class="headerlink" title="配置linux系统的方式"></a>配置linux系统的方式</h1><p>主要包括虚拟机，wls以及双系统。这里主要介绍如何重装Linux系统</p>]]></content>
       
       
+      <categories>
+          
+          <category> 生物信息学 </category>
+          
+      </categories>
+      
       
     </entry>
     
@@ -69,9 +75,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -80,9 +86,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
