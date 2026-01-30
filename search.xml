@@ -197,6 +197,17 @@
     
     
     <entry>
+      <title>comment</title>
+      <link href="/comment/index.html"/>
+      <url>/comment/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" href="//cdn.bootcss.com/gitalk/1.5.0/gitalk.min.css"><script src="//cdn.bootcss.com/gitalk/1.5.0/gitalk.min.js"></script><div id="gitalk-container" style="margin: 30px;padding-bottom: 30px;"></div>         <script>            var gitalk = new Gitalk({                clientID: 'Ov23liuLGGvftjy1qitd', // GitHub Application Client ID                clientSecret: '1814e3a4891935028ebc4fce24268ff23afaf483', // GitHub Application Client Secret                repo: 'comments',      // 存放评论的仓库                owner: 'Kylejo0225',          // 仓库的创建者，                admin: [],        // 如果仓库有多个人可以操作，那么在这里以数组形式写出                id: md5(location.pathname),      // 用于标记评论是哪个页面的，确保唯一，并且长度小于50                title: document.title,                body:  '文章链接：'+ decodeURIComponent(location.origin+location.pathname),            })            gitalk.render('gitalk-container');    // 渲染Gitalk评论组件        </script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>about</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -208,20 +219,9 @@
     
     
     <entry>
-      <title>comment</title>
-      <link href="/comment/index.html"/>
-      <url>/comment/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -241,9 +241,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -252,9 +252,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
