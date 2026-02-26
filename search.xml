@@ -4,11 +4,105 @@
   
     
     <entry>
+      <title>单倍体干细胞</title>
+      <link href="/2026/02/26/haploid/"/>
+      <url>/2026/02/26/haploid/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Slytherin </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 审美积累 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>跨物种克隆现象</title>
+      <link href="/2026/02/25/crsclone/"/>
+      <url>/2026/02/25/crsclone/</url>
+      
+        <content type="html"><![CDATA[<p>参考文献：<br>[1]Y. Juvé, Lutrat C , Ha A ,et al.One mother for two species via obligate cross-species cloning in ants[J].Nature[2026-02-26].DOI:10.1038&#x2F;s41586-025-09425-w.</p><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>对于膜翅目的社会性昆虫，比如蚂蚁，蜜蜂等等，其生殖方式非常特别。<br>以蜜蜂为例</p><ul><li>未受精的卵子直接发育为雄蜂（单倍体）</li><li>受精卵发育为有繁殖能力的蜂王或者没有繁殖能力工蜂<blockquote><p>蜂王浆的特定成分可以抑制基因的甲基化，使得幼虫发育为蜂王</p></blockquote></li></ul><h2 id="克隆"><a href="#克隆" class="headerlink" title="克隆"></a>克隆</h2><h3 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h3><p>从个体层面上来讲，克隆是通过体细胞进行无性繁殖，产生基因型完全相同的生物个体或细胞群的技术，其核心在于不经过有性生殖过程直接复制生物体的全部或部分遗传信息。</p><h3 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h3><p>目前物种克隆的技术主要为<code>体细胞核移植(Somatic Cell Nuclear Translation,SCNT)</code>通过将体细胞的细胞核移植进入去核卵母细胞内，实现核遗传物质的相同以及全能型的恢复。</p><ul><li>线粒体内基因等核外基因主要来源于卵母细胞供体</li><li>核基因来源于核供体</li></ul><h1 id="新发现"><a href="#新发现" class="headerlink" title="新发现"></a>新发现</h1><div class="note info flat"><p>这个研究主要特点是，首次发现了<code>自然界</code>中雌性需要进行跨物种克隆的现象。即雌性M.ibericus产生M.structor的雄性个体。</p><blockquote><p>先前自然界发现的跨物种克隆现象均为，雄性精子寄生异种雌性卵子进行克隆的一种偶然线性。而本研究是一种必然现象。</p></blockquote></div><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>杂交型M.structor(由M.ibericus产生的M.structor)具有以下几个特点：</p><ul><li>核基因(单倍体)来源于M.structor</li><li>线粒体基因来源于M.ibericus<br>此特点与上面所说的SCNT非常类似</li><li>精子寄生，M.structor的精子会通过某种机制使得受精卵中的雌性来源的M.ibericus的染色体失活，从而M.ibericus雌性使得产生了M.structor个体<div class="note info flat"><p>感觉和半克隆有点像啊</p></div><div class="note primary flat"><p>这两个物种的跨物种克隆现象，与精子寄生现象形成了一种有趣的平衡</p></div><img src="/imgs/sci/crs.png"><br>M.ibercus蚁后需要两种物种来源的精子</li><li>M.ibericus的精子得到的受精卵用来产生蚁后</li><li>M.structor的精子得到的受精卵只能产生工蚁<br><img src="/imgs/sci/crs2.jpg"></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Slytherin </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 审美积累 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>朝花夕拾</title>
+      <link href="/2026/02/25/poems/"/>
+      <url>/2026/02/25/poems/</url>
+      
+        <content type="html"><![CDATA[<div class="note red icon-padding disabled"><i class="note-icon fas fa-pen-fancy"></i><h3 id="且视众人之疑目如盏盏鬼火，大胆走你的夜路！"><a href="#且视众人之疑目如盏盏鬼火，大胆走你的夜路！" class="headerlink" title="且视众人之疑目如盏盏鬼火，大胆走你的夜路！"></a>且视众人之疑目如盏盏鬼火，大胆走你的夜路！</h3><p>史铁生</p></div><div class="note blue icon-padding disabled"><i class="note-icon fas fa-ship"></i><h3 id="做世界的水手，奔赴所有的码头！"><a href="#做世界的水手，奔赴所有的码头！" class="headerlink" title="做世界的水手，奔赴所有的码头！"></a>做世界的水手，奔赴所有的码头！</h3><p>沃尔特·惠特曼</p></div><div class="note green icon-padding disabled"><i class="note-icon fas fa-road"></i><h3 id="青年的动人之处就在于他们的勇气和远大前程。"><a href="#青年的动人之处就在于他们的勇气和远大前程。" class="headerlink" title="青年的动人之处就在于他们的勇气和远大前程。"></a>青年的动人之处就在于他们的勇气和远大前程。</h3><p>王小波</p></div><div class="note icon-padding disabled"><i class="note-icon fas fa-earth"></i><h3 id="告诉你吧，世界：我——不——相——信！"><a href="#告诉你吧，世界：我——不——相——信！" class="headerlink" title="告诉你吧，世界：我——不——相——信！"></a>告诉你吧，世界：我——不——相——信！</h3><p>北岛</p></div><div class="note orange icon-padding disabled"><i class="note-icon fas fa-lightbulb"></i><h3 id="你的负担将变成礼物，你受的苦将照亮你的路"><a href="#你的负担将变成礼物，你受的苦将照亮你的路" class="headerlink" title="你的负担将变成礼物，你受的苦将照亮你的路"></a>你的负担将变成礼物，你受的苦将照亮你的路</h3><p>泰戈尔</p></div><div class="note green icon-padding disabled"><i class="note-icon fas fa-leaf"></i><h3 id="假如你是钟声，请把回响埋在落叶里，待到明年春醒，我将以溶雪的速度奔来"><a href="#假如你是钟声，请把回响埋在落叶里，待到明年春醒，我将以溶雪的速度奔来" class="headerlink" title="假如你是钟声，请把回响埋在落叶里，待到明年春醒，我将以溶雪的速度奔来"></a>假如你是钟声，请把回响埋在落叶里，待到明年春醒，我将以溶雪的速度奔来</h3><p>雪莱</p></div><div class="note blue icon-padding disabled"><i class="note-icon fas fa-cloud"></i><h3 id="宠辱不惊，闲看庭前花开花落；去留无意，漫随天外云卷云舒"><a href="#宠辱不惊，闲看庭前花开花落；去留无意，漫随天外云卷云舒" class="headerlink" title="宠辱不惊，闲看庭前花开花落；去留无意，漫随天外云卷云舒"></a>宠辱不惊，闲看庭前花开花落；去留无意，漫随天外云卷云舒</h3><p>《菜根谭》</p></div><div class="note icon-padding disabled"><i class="note-icon fas fa-house"></i><h3 id="世界上只有一种真正的英雄主义，那就是看清生活的真相，并依然热爱它。"><a href="#世界上只有一种真正的英雄主义，那就是看清生活的真相，并依然热爱它。" class="headerlink" title="世界上只有一种真正的英雄主义，那就是看清生活的真相，并依然热爱它。"></a>世界上只有一种真正的英雄主义，那就是看清生活的真相，并依然热爱它。</h3><p>罗曼罗兰</p></div><div class="note orange icon-padding disabled"><i class="note-icon fas fa-cat"></i><h3 id="我深怕自己本非美玉，故不敢加以刻苦琢磨，却又半信自己是块美玉，故又不肯庸庸碌碌，与瓦砾为伍。于是我渐渐地脱离凡尘，疏远世人，结果便是任贲懑与羞恨日益主张内心那怯懦的自尊心"><a href="#我深怕自己本非美玉，故不敢加以刻苦琢磨，却又半信自己是块美玉，故又不肯庸庸碌碌，与瓦砾为伍。于是我渐渐地脱离凡尘，疏远世人，结果便是任贲懑与羞恨日益主张内心那怯懦的自尊心" class="headerlink" title="我深怕自己本非美玉，故不敢加以刻苦琢磨，却又半信自己是块美玉，故又不肯庸庸碌碌，与瓦砾为伍。于是我渐渐地脱离凡尘，疏远世人，结果便是任贲懑与羞恨日益主张内心那怯懦的自尊心"></a>我深怕自己本非美玉，故不敢加以刻苦琢磨，却又半信自己是块美玉，故又不肯庸庸碌碌，与瓦砾为伍。于是我渐渐地脱离凡尘，疏远世人，结果便是任贲懑与羞恨日益主张内心那怯懦的自尊心</h3><p>《山月记》</p></div><div class="note orange icon-padding disabled"><i class="note-icon fas fa-lightbulb"></i><h3 id="预感总是悄然来临，灵光一现，好像某种确凿无疑的信念在瞬间萌生而无所适从"><a href="#预感总是悄然来临，灵光一现，好像某种确凿无疑的信念在瞬间萌生而无所适从" class="headerlink" title="预感总是悄然来临，灵光一现，好像某种确凿无疑的信念在瞬间萌生而无所适从"></a>预感总是悄然来临，灵光一现，好像某种确凿无疑的信念在瞬间萌生而无所适从</h3><p>《百年孤独》</p></div><div class="note purple icon-padding disabled"><i class="note-icon fas fa-diamond"></i><h3 id="真实的高贵不是超越别人，而是超越每一个昨天的自己"><a href="#真实的高贵不是超越别人，而是超越每一个昨天的自己" class="headerlink" title="真实的高贵不是超越别人，而是超越每一个昨天的自己"></a>真实的高贵不是超越别人，而是超越每一个昨天的自己</h3><p>泰戈尔</p></div><div class="note icon-padding disabled"><i class="note-icon fas fa-mountain"></i><h3 id="山上暑气氤氲，光线直直泻下，山下千姿百态色彩蒸腾"><a href="#山上暑气氤氲，光线直直泻下，山下千姿百态色彩蒸腾" class="headerlink" title="山上暑气氤氲，光线直直泻下，山下千姿百态色彩蒸腾"></a>山上暑气氤氲，光线直直泻下，山下千姿百态色彩蒸腾</h3><p>黑塞</p></div><div class="note pink icon-padding disabled"><i class="note-icon fas fa-rose"></i><h3 id="阶砖不会拒绝磨蚀，窗花不可幽禁落霞"><a href="#阶砖不会拒绝磨蚀，窗花不可幽禁落霞" class="headerlink" title="阶砖不会拒绝磨蚀，窗花不可幽禁落霞"></a>阶砖不会拒绝磨蚀，窗花不可幽禁落霞</h3><p>《喜帖街》</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Gryffindor </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>合成生物学</title>
+      <link href="/2026/02/25/synbio/"/>
+      <url>/2026/02/25/synbio/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><h2 id="合成生物学的定义"><a href="#合成生物学的定义" class="headerlink" title="合成生物学的定义"></a>合成生物学的定义</h2><p>合成生物学是<code>生物科学</code>的一个分支学科，通过工程化设计改造或从头构建人工生物系统。该概念最早由法国物理化学家Stephane Leduc于1910年提出，核心理论在20世纪后期逐步形成。与传统生物学解析生命体的研究路径相反，其采用<code>“自下而上”</code>策略，利用<code>标准化生物元件</code>模块化构建遗传回路，结合“设计-构建-测试-学习”工程循环，实现对生命系统的定向重塑。</p><h1 id="基本概念"><a href="#基本概念" class="headerlink" title="基本概念"></a>基本概念</h1><h2 id="基因线路调控元件"><a href="#基因线路调控元件" class="headerlink" title="基因线路调控元件"></a>基因线路调控元件</h2><ul><li>原核生物基因表达调控的基本功能单位是操纵子，基本结构包括：结构基因、启动子、调控基因、终止子等</li><li>真核生物基因表达调控元件包括：顺势作用元件和反式作用元件<blockquote><p>顺式作用元件：存在于基因旁侧序列中能影响基因表达调控的DNA序列，包括启动子、增强子、调控序列等<br>反式作用元件：能够直接或间接识别并结合在各类顺式作用元件从而影响靶基因转录效率调控的元件</p></blockquote></li></ul><blockquote><p>RNAP: RNA Polymerase(RNA聚合酶)<br>结构基因:分子生物学中的一个核心概念，指能够编码功能性RNA或蛋白质的基因</p></blockquote><h3 id="启动子Promoter"><a href="#启动子Promoter" class="headerlink" title="启动子Promoter"></a>启动子Promoter</h3><p>位于结构基因5’端上游，可被RNAP特异性识别和结合的一段特殊DNA序列</p><blockquote><p>启动子的结构影响它与RNAP和调节蛋白的亲和力从而影响基因表达水平</p></blockquote><h3 id="终止子Terminator"><a href="#终止子Terminator" class="headerlink" title="终止子Terminator"></a>终止子Terminator</h3><p>终止子位于基因编码区下游，给予RNAP终止信号的特殊DNA序列。在一个操纵子中至少在结构基因群的最后一个基因后面又一个终止子</p><ul><li><p>内在终止子<br><code>不依赖蛋白质辅因子实现终止作用</code>，内在终止子回文序列中富含GC碱基对，回文序列下游又常常有6-8个AT碱基对，使得转录产物形成寡聚U及发卡形的二级结构，引起RNAP变构以及移动停止<br><code>强终止子</code></p></li><li><p>依赖释放因子的终止子 ，其回文序列GC含量较低，<code>弱终止子</code></p></li></ul><h3 id="弱化子Attenuator"><a href="#弱化子Attenuator" class="headerlink" title="弱化子Attenuator"></a>弱化子Attenuator</h3><p>弱化子是指<code>原核生物</code>操纵子中，位于操纵子上游，能显著减弱甚至终止转录作用的一段DNA序列，能形成不同的二级结构。</p><h3 id="增强子Enhancer"><a href="#增强子Enhancer" class="headerlink" title="增强子Enhancer"></a>增强子Enhancer</h3><p>结构基因<code>附近</code>，能明显增强该基因的转录活性的一段DNA序列。增强子是真核生物基因中的一类顺式作用元件，与反式作用元件相互作用可以显著增强转录活性。</p><h4 id="作用特点"><a href="#作用特点" class="headerlink" title="作用特点"></a>作用特点</h4><ul><li>具有远距效应<blockquote><p>在距离转录起点相当远都可以起作用，上游&#x2F;下游</p></blockquote></li><li>无方向性<blockquote><p> 可以在5’端调控区也可以在3’端调控区，还可以在内含子区域</p></blockquote></li><li>无物种和基因特异性<blockquote><p>增强子只在启动子存在时发挥作用，但对启动子无特异性，对异源基因同样有增强作用</p></blockquote></li><li>有组织或细胞特异性，增强效应需要特定蛋白质参与</li><li>增强子作用与其序列正反方向无关</li></ul><h3 id="阻遏子Repressor"><a href="#阻遏子Repressor" class="headerlink" title="阻遏子Repressor"></a>阻遏子Repressor</h3><p>阻遏子是给予某种调节基因表达的一种调控蛋白质，在原核生物中具有特定基因群产生特征蛋白质的作用，又称阻遏蛋白。阻遏蛋白能够识别操纵基因，当操纵序列结合阻遏蛋白时会阻碍RNA聚合酶与启动子的结合，或者使得RNA聚合酶不能沿DNA向前移动，阻遏转录。</p><h3 id="绝缘子"><a href="#绝缘子" class="headerlink" title="绝缘子"></a>绝缘子</h3><p>绝缘子是在基因组内建立独立的转录活性结构与的边界DNA序列 ，作为真核生物基因组的调控元件之一，绝缘子能阻止邻近的增强子或沉默子对其界定的基因组发挥调控作用。</p><h3 id="核糖体结合位点RBS"><a href="#核糖体结合位点RBS" class="headerlink" title="核糖体结合位点RBS"></a>核糖体结合位点RBS</h3><p>核糖体结合位点(RBS,ribosome bing site)是<code>mRNA</code>上的起始密码子AUG上游的一段非翻译区，核糖体可以识别并结合这一序列来启动翻译过程。</p><ul><li>原核生物中该序列称为SD序列，可被核糖体16S亚基通过碱基互补配对精确识别，促使核糖体结合到mRNA上，有利于翻译的起始</li><li>真核生物mRNA 5’端帽子结构后面的一段核酸序列，通常是<code>GCCACCAUGG</code>，它可以与翻译起始因子结合从而介导含义5’帽子结构的mRNA翻译起始。对应于原核生物的SD序列。</li></ul><h3 id="转录因子TF"><a href="#转录因子TF" class="headerlink" title="转录因子TF"></a>转录因子TF</h3><p>转录因子指可以结合到特定DNA序列进而调控转录过程的蛋白质</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><table><thead><tr><th align="left">元件</th><th align="left">位置</th><th align="left">化学本质</th><th align="left">作用</th></tr></thead><tbody><tr><td align="left">Promoter</td><td align="left">结构基因上游</td><td align="left">DNA序列</td><td align="left">启动转录</td></tr><tr><td align="left">Terminator</td><td align="left">结构基因下游</td><td align="left">DNA序列</td><td align="left">终止转录</td></tr><tr><td align="left">Enhancer</td><td align="left">真核结构基因附近</td><td align="left">DNA序列</td><td align="left">促进转录启动</td></tr><tr><td align="left">Attenuator</td><td align="left">原核操纵子上游</td><td align="left">DNA序列</td><td align="left">减弱甚至终止转录作用</td></tr><tr><td align="left">RBS</td><td align="left">mRNA上游</td><td align="left">RNA序列</td><td align="left">启动翻译过程</td></tr></tbody></table><h1 id="生物元件"><a href="#生物元件" class="headerlink" title="生物元件"></a>生物元件</h1><div class="note primary flat"><p>可以查看<a href="https://parts.igem.org/Catalog">igem标准元件网站</a>进行详细了解</p></div><p><img src="/imgs/sci/igemp.png"></p><h2 id="衡量标准"><a href="#衡量标准" class="headerlink" title="衡量标准"></a>衡量标准</h2><ul><li>PoPS：RNA Polymerase per second，RNA聚合酶每秒，用来衡量基因的被转录水平。<div class="note warning flat"><p>应该将其理解为单位时间通过某一关键位点的RNAP的数量，不完全等价于转录速率，转录速率衡量的是单位时间的转录量。比如对于终止子位点，没有转录结果，转录速率为0，但是PoPS显然不为0.</p></div></li><li>RIPS：ribosome initiations per second每秒核糖体启动数，用于衡量,RNA上的翻译水平</li></ul><h1 id="逻辑门基因线路"><a href="#逻辑门基因线路" class="headerlink" title="逻辑门基因线路"></a>逻辑门基因线路</h1><h2 id="与门"><a href="#与门" class="headerlink" title="与门"></a>与门</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Slytherin </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 合成生物学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>胡闹厨房</title>
       <link href="/2026/02/25/menu/"/>
       <url>/2026/02/25/menu/</url>
       
-        <content type="html"><![CDATA[<h1 id="豆豉鲮鱼油麦菜"><a href="#豆豉鲮鱼油麦菜" class="headerlink" title="豆豉鲮鱼油麦菜"></a>豆豉鲮鱼油麦菜</h1><h2 id="基本信息"><a href="#基本信息" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：5<br>制作难度：1<br>来源：KJ<br>配料表：豆豉鲮鱼酱、油麦菜、蒜末、盐、生抽、油</p><h2 id="做法"><a href="#做法" class="headerlink" title="做法"></a>做法</h2><ul><li>油润锅，下豆豉鲮鱼酱炒开</li><li>下蒜末炒油麦菜，少放盐、酱油<blockquote><p>油麦菜分两批，先茎后叶</p></blockquote></li></ul><h2 id="图例"><a href="#图例" class="headerlink" title="图例"></a>图例</h2><p><img src="/imgs/menu/dsly.jpg"></p><h1 id="蒸排骨"><a href="#蒸排骨" class="headerlink" title="蒸排骨"></a>蒸排骨</h1><h2 id="基本信息-1"><a href="#基本信息-1" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：5<br>制作难度：1<br>来源：KJ<br>配料表：排骨、豆豉酱、蚝油、生抽、生粉、盐、油、葱花</p><h2 id="做法-1"><a href="#做法-1" class="headerlink" title="做法"></a>做法</h2><ul><li>豆豉酱、蚝油、生抽、生粉、盐、油腌制排骨</li><li>水沸后上锅蒸20min，撒葱花</li></ul><h2 id="图例-1"><a href="#图例-1" class="headerlink" title="图例"></a>图例</h2><p><img src="/imgs/menu/zpg.jpg"></p><h1 id="砂锅炖鸡"><a href="#砂锅炖鸡" class="headerlink" title="砂锅炖鸡"></a>砂锅炖鸡</h1><h2 id="基本信息-2"><a href="#基本信息-2" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：4.5<br>制作难度：2<br>来源：KJ<br>配料表：鸡肉、蚝油、生抽、啤酒、茶油、姜片</p><h2 id="做法-2"><a href="#做法-2" class="headerlink" title="做法"></a>做法</h2><ul><li>下油将鸡肉炒至金黄</li><li>放入蚝油生抽水啤酒</li><li>烧至水沸腾转入砂锅炖至酱汁浓稠，期间可以放入姜片或一些配菜</li></ul><h1 id="枸杞叶汤"><a href="#枸杞叶汤" class="headerlink" title="枸杞叶汤"></a>枸杞叶汤</h1><h2 id="基本信息-3"><a href="#基本信息-3" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：4<br>制作难度：2<br>来源：KJ<br>配料表：枸杞叶、猪肉、猪肝、枸杞、蚝油、生抽、生粉、料酒、猪油、蒜末</p><h2 id="做法-3"><a href="#做法-3" class="headerlink" title="做法"></a>做法</h2><ul><li>蚝油生粉生抽盐油腌制猪肉，盐料酒腌制猪肝</li><li>下油炒蒜末、枸杞叶，倒入水，下猪肉、猪肝，最后枸杞点缀</li></ul><h1 id="咸蛋黄土豆丝"><a href="#咸蛋黄土豆丝" class="headerlink" title="咸蛋黄土豆丝"></a>咸蛋黄土豆丝</h1><h2 id="基本信息-4"><a href="#基本信息-4" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：4<br>制作难度：1.5<br>来源：KJ<br>配料表：咸蛋黄、土豆丝、葱花、油、盐</p><h2 id="做法-4"><a href="#做法-4" class="headerlink" title="做法"></a>做法</h2><ul><li>起锅烧水，放少许盐，焯水土豆丝，放凉</li><li>将咸蛋黄压制细腻，烧油放入咸蛋黄至绵密气泡</li><li>下入土豆丝至均匀裹满咸蛋黄，放点盐</li></ul><h2 id="图例-2"><a href="#图例-2" class="headerlink" title="图例"></a>图例</h2><p><img src="/imgs/menu/xdhtds.jpg"></p><h1 id="台式卤肉饭"><a href="#台式卤肉饭" class="headerlink" title="台式卤肉饭"></a>台式卤肉饭</h1><h2 id="基本信息-5"><a href="#基本信息-5" class="headerlink" title="基本信息"></a>基本信息</h2><p>来源：溜冰<br>配料表：五花肉、红葱头（可用洋葱替代）、虾皮、冰糖、生抽、鸡蛋</p><h2 id="做法-5"><a href="#做法-5" class="headerlink" title="做法"></a>做法</h2><ul><li>先将带皮五花肉切成小条状，放入锅中，将五花肉煸至金黄（要注意火候，不要煸过），捞出五花肉</li><li>放入红葱头，小火炸至金黄，然后加入虾皮，炸出香味（虾皮容易焦）</li><li>锅中保留虾皮和红葱头，加入煸好的五花肉，放入适量的糖，炒出糖色，再加入适量生抽，翻炒上色</li><li>加入水和煮好的鸡蛋，水刚好没过五花肉，水开后小火炖煮最少40分钟。入味后，大火收汁，留一定的汤汁拌饭</li></ul><h1 id="啤酒鸭"><a href="#啤酒鸭" class="headerlink" title="啤酒鸭"></a>啤酒鸭</h1><h2 id="基本信息-6"><a href="#基本信息-6" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：4.5<br>制作难度：2<br>来源：KJ<br>配料表：鸭肉、蚝油、生抽、啤酒、油、姜片、豆瓣酱</p><h2 id="做法-6"><a href="#做法-6" class="headerlink" title="做法"></a>做法</h2><ul><li>下油将鸭肉炒至金黄</li><li>加入姜片，豆瓣酱翻炒</li><li>放入蚝油生抽水啤酒，烧至水沸腾转入砂锅炖至酱汁浓稠，其间可以加入一些配菜</li></ul><h1 id="皮蛋苋菜汤"><a href="#皮蛋苋菜汤" class="headerlink" title="皮蛋苋菜汤"></a>皮蛋苋菜汤</h1><h2 id="基本信息-7"><a href="#基本信息-7" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：3<br>制作难度：1<br>来源：KJ<br>配料表：苋菜、皮蛋切丁、火腿丁、油、盐、蒜</p><h2 id="做法-7"><a href="#做法-7" class="headerlink" title="做法"></a>做法</h2><p>下油翻炒蒜末皮蛋丁火腿丁，加入一碗水，放入苋菜炒熟</p><h1 id="小炒肉"><a href="#小炒肉" class="headerlink" title="小炒肉"></a>小炒肉</h1><h2 id="基本信息-8"><a href="#基本信息-8" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：4.5<br>制作难度：1.5<br>来源：KJ<br>配料表：红辣椒、青辣椒、蒜、猪肉、生抽、盐、油、姜</p><h2 id="做法-8"><a href="#做法-8" class="headerlink" title="做法"></a>做法</h2><ul><li>猪肉分为肥瘦两部份，下油先把肥肉煸出油，金黄脆香</li><li>接着炒瘦肉，至金黄盛出备用</li><li>用锅里剩的油翻炒红青辣椒，蒜，生姜丝加入点盐，炒出香味</li><li>加入肉，加盐加生抽（蚝油，料酒）完毕</li></ul><h1 id="肉末芋头"><a href="#肉末芋头" class="headerlink" title="肉末芋头"></a>肉末芋头</h1><h2 id="基本信息-9"><a href="#基本信息-9" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：5<br>制作难度：2<br>来源：KJ<br>配料表：红辣椒、肉末、葱、蒜、芋头丝、盐、油、生抽、蚝油</p><h2 id="做法-9"><a href="#做法-9" class="headerlink" title="做法"></a>做法</h2><ul><li>下油炒蒜末，辣椒段，至香</li><li>下入肉末，炒熟，转小火，倒少许蚝油和酱油，至完全裹住肉末</li><li>倒到芋头丝上，整体淋一点酱油</li><li>水沸后蒸12分钟，之后拿出，并淋热油</li></ul><h2 id="图例-3"><a href="#图例-3" class="headerlink" title="图例"></a>图例</h2><p><img src="/imgs/menu/rmyt.jpg"></p><h1 id="手抓饭"><a href="#手抓饭" class="headerlink" title="手抓饭"></a>手抓饭</h1><h2 id="基本信息-10"><a href="#基本信息-10" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：4.5<br>制作难度：2.5<br>来源：KJ<br>配料表：水、油、盐、孜然粉、米饭、白洋葱、胡萝卜、羊小排</p><h1 id="做法-10"><a href="#做法-10" class="headerlink" title="做法"></a>做法</h1><ul><li>将大米洗好泡30分钟，倒干水分</li><li>放油，炸白洋葱圈，至白洋葱变金黄</li><li>用煸过白洋葱的油继续编羊小排至金黄</li><li>下入胡萝卜（胡萝卜越多越好吃我觉得），加入孜然稍微炒一会儿，加水至完全没过，加盐调味<blockquote><p>拿高压锅把羊肉再压10分钟可能更好</p></blockquote></li><li>把大米放入电饭煲，并且加入汤汁（正常煮米饭的量就行），再把胡萝卜，羊肉放进去一起，开始煮饭即可</li></ul><h2 id="图例-4"><a href="#图例-4" class="headerlink" title="图例"></a>图例</h2><p><img src="/imgs/menu/szf.jpg"></p><h1 id="糯米蒸排骨"><a href="#糯米蒸排骨" class="headerlink" title="糯米蒸排骨"></a>糯米蒸排骨</h1><h2 id="图例-5"><a href="#图例-5" class="headerlink" title="图例"></a>图例</h2><p><img src="/imgs/menu/nmpg.png"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="豆豉鲮鱼油麦菜"><a href="#豆豉鲮鱼油麦菜" class="headerlink" title="豆豉鲮鱼油麦菜"></a>豆豉鲮鱼油麦菜</h1><h2 id="基本信息"><a href="#基本信息" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：5<br>制作难度：1<br>来源：KJ<br>配料表：豆豉鲮鱼酱、油麦菜、蒜末、盐、生抽、油</p><h2 id="做法"><a href="#做法" class="headerlink" title="做法"></a>做法</h2><ul><li>油润锅，下豆豉鲮鱼酱炒开</li><li>下蒜末炒油麦菜，少放盐、酱油<blockquote><p>油麦菜分两批，先茎后叶</p></blockquote></li></ul><h2 id="图例"><a href="#图例" class="headerlink" title="图例"></a>图例</h2><p><img src="/imgs/menu/dsly.jpg"></p><h1 id="蒸排骨"><a href="#蒸排骨" class="headerlink" title="蒸排骨"></a>蒸排骨</h1><h2 id="基本信息-1"><a href="#基本信息-1" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：5<br>制作难度：1<br>来源：KJ<br>配料表：排骨、豆豉酱、蚝油、生抽、生粉、盐、油、葱花</p><h2 id="做法-1"><a href="#做法-1" class="headerlink" title="做法"></a>做法</h2><ul><li>豆豉酱、蚝油、生抽、生粉、盐、油腌制排骨</li><li>水沸后上锅蒸20min，撒葱花</li></ul><h2 id="图例-1"><a href="#图例-1" class="headerlink" title="图例"></a>图例</h2><p><img src="/imgs/menu/zpg.jpg"></p><h1 id="砂锅炖鸡"><a href="#砂锅炖鸡" class="headerlink" title="砂锅炖鸡"></a>砂锅炖鸡</h1><h2 id="基本信息-2"><a href="#基本信息-2" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：4.5<br>制作难度：2<br>来源：KJ<br>配料表：鸡肉、蚝油、生抽、啤酒、茶油、姜片</p><h2 id="做法-2"><a href="#做法-2" class="headerlink" title="做法"></a>做法</h2><ul><li>下油将鸡肉炒至金黄</li><li>放入蚝油生抽水啤酒</li><li>烧至水沸腾转入砂锅炖至酱汁浓稠，期间可以放入姜片或一些配菜</li></ul><h1 id="枸杞叶汤"><a href="#枸杞叶汤" class="headerlink" title="枸杞叶汤"></a>枸杞叶汤</h1><h2 id="基本信息-3"><a href="#基本信息-3" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：4<br>制作难度：2<br>来源：KJ<br>配料表：枸杞叶、猪肉、猪肝、枸杞、蚝油、生抽、生粉、料酒、猪油、蒜末</p><h2 id="做法-3"><a href="#做法-3" class="headerlink" title="做法"></a>做法</h2><ul><li>蚝油生粉生抽盐油腌制猪肉，盐料酒腌制猪肝</li><li>下油炒蒜末、枸杞叶，倒入水，下猪肉、猪肝，最后枸杞点缀</li></ul><h1 id="咸蛋黄土豆丝"><a href="#咸蛋黄土豆丝" class="headerlink" title="咸蛋黄土豆丝"></a>咸蛋黄土豆丝</h1><h2 id="基本信息-4"><a href="#基本信息-4" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：4<br>制作难度：1.5<br>来源：KJ<br>配料表：咸蛋黄、土豆丝、葱花、油、盐</p><h2 id="做法-4"><a href="#做法-4" class="headerlink" title="做法"></a>做法</h2><ul><li>起锅烧水，放少许盐，焯水土豆丝，放凉</li><li>将咸蛋黄压制细腻，烧油放入咸蛋黄至绵密气泡</li><li>下入土豆丝至均匀裹满咸蛋黄，放点盐</li></ul><h2 id="图例-2"><a href="#图例-2" class="headerlink" title="图例"></a>图例</h2><p><img src="/imgs/menu/xdhtds.jpg"></p><h1 id="台式卤肉饭"><a href="#台式卤肉饭" class="headerlink" title="台式卤肉饭"></a>台式卤肉饭</h1><h2 id="基本信息-5"><a href="#基本信息-5" class="headerlink" title="基本信息"></a>基本信息</h2><p>来源：溜冰<br>配料表：五花肉、红葱头（可用洋葱替代）、虾皮、冰糖、生抽、鸡蛋</p><h2 id="做法-5"><a href="#做法-5" class="headerlink" title="做法"></a>做法</h2><ul><li>先将带皮五花肉切成小条状，放入锅中，将五花肉煸至金黄（要注意火候，不要煸过），捞出五花肉</li><li>放入红葱头，小火炸至金黄，然后加入虾皮，炸出香味（虾皮容易焦）</li><li>锅中保留虾皮和红葱头，加入煸好的五花肉，放入适量的糖，炒出糖色，再加入适量生抽，翻炒上色</li><li>加入水和煮好的鸡蛋，水刚好没过五花肉，水开后小火炖煮最少40分钟。入味后，大火收汁，留一定的汤汁拌饭</li></ul><h1 id="啤酒鸭"><a href="#啤酒鸭" class="headerlink" title="啤酒鸭"></a>啤酒鸭</h1><h2 id="基本信息-6"><a href="#基本信息-6" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：4.5<br>制作难度：2<br>来源：KJ<br>配料表：鸭肉、蚝油、生抽、啤酒、油、姜片、豆瓣酱</p><h2 id="做法-6"><a href="#做法-6" class="headerlink" title="做法"></a>做法</h2><ul><li>下油将鸭肉炒至金黄</li><li>加入姜片，豆瓣酱翻炒</li><li>放入蚝油生抽水啤酒，烧至水沸腾转入砂锅炖至酱汁浓稠，其间可以加入一些配菜</li></ul><h1 id="皮蛋苋菜汤"><a href="#皮蛋苋菜汤" class="headerlink" title="皮蛋苋菜汤"></a>皮蛋苋菜汤</h1><h2 id="基本信息-7"><a href="#基本信息-7" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：3<br>制作难度：1<br>来源：KJ<br>配料表：苋菜、皮蛋切丁、火腿丁、油、盐、蒜</p><h2 id="做法-7"><a href="#做法-7" class="headerlink" title="做法"></a>做法</h2><p>下油翻炒蒜末皮蛋丁火腿丁，加入一碗水，放入苋菜炒熟</p><h1 id="小炒肉"><a href="#小炒肉" class="headerlink" title="小炒肉"></a>小炒肉</h1><h2 id="基本信息-8"><a href="#基本信息-8" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：4.5<br>制作难度：1.5<br>来源：KJ<br>配料表：红辣椒、青辣椒、蒜、猪肉、生抽、盐、油、姜</p><h2 id="做法-8"><a href="#做法-8" class="headerlink" title="做法"></a>做法</h2><ul><li>猪肉分为肥瘦两部份，下油先把肥肉煸出油，金黄脆香</li><li>接着炒瘦肉，至金黄盛出备用</li><li>用锅里剩的油翻炒红青辣椒，蒜，生姜丝加入点盐，炒出香味</li><li>加入肉，加盐加生抽（蚝油，料酒）完毕</li></ul><h2 id="图例-3"><a href="#图例-3" class="headerlink" title="图例"></a>图例</h2><p><img src="/imgs/menu/xcr.jpg"></p><h1 id="肉末芋头"><a href="#肉末芋头" class="headerlink" title="肉末芋头"></a>肉末芋头</h1><h2 id="基本信息-9"><a href="#基本信息-9" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：5<br>制作难度：2<br>来源：KJ<br>配料表：红辣椒、肉末、葱、蒜、芋头丝、盐、油、生抽、蚝油</p><h2 id="做法-9"><a href="#做法-9" class="headerlink" title="做法"></a>做法</h2><ul><li>下油炒蒜末，辣椒段，至香</li><li>下入肉末，炒熟，转小火，倒少许蚝油和酱油，至完全裹住肉末</li><li>倒到芋头丝上，整体淋一点酱油</li><li>水沸后蒸12分钟，之后拿出，并淋热油</li></ul><h2 id="图例-4"><a href="#图例-4" class="headerlink" title="图例"></a>图例</h2><p><img src="/imgs/menu/rmyt.jpg"></p><h1 id="手抓饭"><a href="#手抓饭" class="headerlink" title="手抓饭"></a>手抓饭</h1><h2 id="基本信息-10"><a href="#基本信息-10" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：4.5<br>制作难度：2.5<br>来源：KJ<br>配料表：水、油、盐、孜然粉、米饭、白洋葱、胡萝卜、羊小排</p><h2 id="做法-10"><a href="#做法-10" class="headerlink" title="做法"></a>做法</h2><ul><li>将大米洗好泡30分钟，倒干水分</li><li>放油，炸白洋葱圈，至白洋葱变金黄</li><li>用煸过白洋葱的油继续编羊小排至金黄</li><li>下入胡萝卜（胡萝卜越多越好吃我觉得），加入孜然稍微炒一会儿，加水至完全没过，加盐调味<blockquote><p>拿高压锅把羊肉再压10分钟可能更好</p></blockquote></li><li>把大米放入电饭煲，并且加入汤汁（正常煮米饭的量就行），再把胡萝卜，羊肉放进去一起，开始煮饭即可</li></ul><h2 id="图例-5"><a href="#图例-5" class="headerlink" title="图例"></a>图例</h2><p><img src="/imgs/menu/szf.jpg"></p><h1 id="糯米蒸排骨"><a href="#糯米蒸排骨" class="headerlink" title="糯米蒸排骨"></a>糯米蒸排骨</h1><h2 id="基本信息-11"><a href="#基本信息-11" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：4.5<br>制作难度：2<br>来源：KJ<br>配料表：糯米、排骨、玉米、葱花、小米椒、生抽、老抽、蚝油、油、盐、生粉</p><h2 id="做法-11"><a href="#做法-11" class="headerlink" title="做法"></a>做法</h2><ul><li>将糯米洗净后浸泡4个小时充分吸水</li><li>分别腌制糯米和排骨，生抽老抽盐蚝油少量腌制糯米，生抽老抽盐油生粉腌制排骨，腌好后捞出排骨，用糯米覆盖好</li><li>在糯米上放几块玉米，蒸50分钟</li><li>最后撒上一点小米椒和葱花</li></ul><h2 id="图例-6"><a href="#图例-6" class="headerlink" title="图例"></a>图例</h2><p><img src="/imgs/menu/nmpg.png"></p><h1 id="炒蛋饺"><a href="#炒蛋饺" class="headerlink" title="炒蛋饺"></a>炒蛋饺</h1><h2 id="基本信息-12"><a href="#基本信息-12" class="headerlink" title="基本信息"></a>基本信息</h2><p>推荐指数：5<br>制作难度：2.5<br>来源：KJ<br>配料表：油、盐、彩椒（绿色、红色）、鸡蛋、猪肉、葱姜蒜、酱油、糖</p><h2 id="做法-12"><a href="#做法-12" class="headerlink" title="做法"></a>做法</h2><ul><li>肉馅：将猪肉搅碎，加入少量的糖，适量盐和酱油混匀加入少量葱，制作好肉馅备用</li><li>蛋饺：将鸡蛋敲开，搅匀蛋清蛋黄；在平底锅上倒入油，加入2-3汤匙的蛋液，至底面微微凝固，在边缘三分之一处，加入一筷子的肉馅，用铲子将蛋皮从另一侧翻上去，再稍微调整使得蛋皮完全包裹住肉馅；让蛋饺在锅上继续煎一段时间，使得两边微微金黄捞出备用</li><li>起锅烧油下入姜蒜辣椒，炒香下入蛋饺，加入少量水焖2分钟，之后加入一些酱油翻炒一下就可以出锅了</li></ul><h2 id="图例-7"><a href="#图例-7" class="headerlink" title="图例"></a>图例</h2><p><img src="/imgs/menu/dj.jpg"></p>]]></content>
       
       
       <categories>
@@ -33,7 +127,7 @@
       <link href="/2026/02/15/rhd/"/>
       <url>/2026/02/15/rhd/</url>
       
-        <content type="html"><![CDATA[<h1 id="人类红细胞抗原相关知识"><a href="#人类红细胞抗原相关知识" class="headerlink" title="人类红细胞抗原相关知识"></a>人类红细胞抗原相关知识</h1><p>人类血型系统主要有ABO, Rhesus等等</p><ul><li>ABO系统包含A,B抗原，对应抗体先天产生</li><li>Rh系统包含非常多种抗原，其中最重要的是D抗原，对应抗体后天产生<blockquote><p>比如：RhD阴性个体血液一开始本身不含有D抗体，但输入RhD阳性血后，接触到D抗原会引发免疫反应从而产生D抗体。首次可以输入阳性血，之后均不行。</p></blockquote></li></ul><h1 id="通用熊猫血的路径"><a href="#通用熊猫血的路径" class="headerlink" title="通用熊猫血的路径"></a>通用熊猫血的路径</h1><h2 id="A-去除红细胞表面抗原"><a href="#A-去除红细胞表面抗原" class="headerlink" title="A.去除红细胞表面抗原"></a>A.去除红细胞表面抗原</h2><p>1.RBC抗原酶解去除<br>2.基因编辑血型决定基因</p><h2 id="B-遮盖-隐藏血型抗原"><a href="#B-遮盖-隐藏血型抗原" class="headerlink" title="B.遮盖&#x2F;隐藏血型抗原"></a>B.遮盖&#x2F;隐藏血型抗原</h2><p>1.仿生分子特异性屏蔽红细胞表面抗原位点<br>2.3D框架屏蔽红细胞表面抗原<br>3.硅化红细胞</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><h2 id="研究目的"><a href="#研究目的" class="headerlink" title="研究目的"></a>研究目的</h2><p>“通用熊猫血”是生物医学领域的一项重大科研突破，它的核心意义在于有望彻底解决“熊猫血”（Rh阴性）患者临床用血难、救命血源紧缺的困境</p><h1 id="人类红细胞抗原相关知识"><a href="#人类红细胞抗原相关知识" class="headerlink" title="人类红细胞抗原相关知识"></a>人类红细胞抗原相关知识</h1><p>人类血型系统主要有ABO, Rhesus等等</p><ul><li>ABO系统包含A,B抗原，<code>对应抗体先天产生</code></li><li>Rh系统包含非常多种抗原，其中最重要的是D抗原，<code>对应抗体后天产生</code><blockquote><p>比如：RhD阴性个体血液一开始本身不含有D抗体，但输入RhD阳性血后，接触到D抗原会引发免疫反应从而产生D抗体。首次可以输入阳性血，之后均不行。</p></blockquote></li></ul><h1 id="通用熊猫血的路径"><a href="#通用熊猫血的路径" class="headerlink" title="通用熊猫血的路径"></a>通用熊猫血的路径</h1><h2 id="A-去除红细胞表面抗原"><a href="#A-去除红细胞表面抗原" class="headerlink" title="A.去除红细胞表面抗原"></a>A.去除红细胞表面抗原</h2><h3 id="1-RBC抗原酶解去除"><a href="#1-RBC抗原酶解去除" class="headerlink" title="1.RBC抗原酶解去除"></a>1.RBC抗原酶解去除</h3><blockquote><p>RBC：Red Blood Cell</p></blockquote><ul><li>优点：<br>被成功应用于将A&#x2F;B型红细胞转变为O型红细胞</li><li>存在问题：<br>不适于Rh抗原体系，Rh相关抗原与红细胞膜存在内在关联，相关多肽的缺失将导致整个细胞膜的解体</li></ul><h3 id="2-基因编辑血型决定基因"><a href="#2-基因编辑血型决定基因" class="headerlink" title="2.基因编辑血型决定基因"></a>2.基因编辑血型决定基因</h3><p>通过基因编辑手段容易产生意外的基因突变，并且没有经过体内验证</p><h2 id="B-遮盖-隐藏血型抗原"><a href="#B-遮盖-隐藏血型抗原" class="headerlink" title="B.遮盖&#x2F;隐藏血型抗原"></a>B.遮盖&#x2F;隐藏血型抗原</h2><h3 id="1-仿生分子特异性屏蔽红细胞表面抗原位点"><a href="#1-仿生分子特异性屏蔽红细胞表面抗原位点" class="headerlink" title="1.仿生分子特异性屏蔽红细胞表面抗原位点"></a>1.仿生分子特异性屏蔽红细胞表面抗原位点</h3><p>某些仿生分子，如聚多巴胺(PDA,Polydopamine)之类可以实现点对点的红细胞抗原屏蔽。但是！这种治疗方法会明显降低细胞膜的流动性，从而导致细胞变得脆弱。</p><h3 id="2-3D框架屏蔽红细胞表面抗原"><a href="#2-3D框架屏蔽红细胞表面抗原" class="headerlink" title="2.3D框架屏蔽红细胞表面抗原"></a>2.3D框架屏蔽红细胞表面抗原</h3><p>参考文献：Zhao Y , Fan M , Chen Y ,et al.Surface-anchored framework for generating RhD-epitope stealth red blood cells[J].Science Advances, 2020, 6(12):eaaw9679.DOI:10.1126&#x2F;sciadv.aaw9679.</p><blockquote><p>HRP：horseradise peroxidase 辣根过氧化酶<br>BAM：Biocompatible anchor molecules 生物相容性锚定分子<br>PEG：Poly(ethylene glycol)聚乙二醇<br>PSA：Polysialic acid</p></blockquote><p>化学原理图如下：<br><img src="/imgs/sci/rbc.png"></p><ul><li>将BAM与HRP连接得到HRP-BAM耦联物<blockquote><p>其中BAM可以与细胞膜上相关CAM相结合，实现了将HRP固定在细胞膜上面</p></blockquote></li><li>将PSA与tyramine在一定条件下反应得到PSA-Tyramine conjugate<blockquote><p>HRP作为催化剂的条件，在H2O2帮助下实现聚合Tyramine<br>PSA为长链大分子，具有形成网络结构的潜力，因此把两者耦合</p></blockquote></li><li>HRP固定在细胞膜表面，仅仅催化表面的PSA-Tyramine conjugate进行聚合形成3D网络结构，巧妙实现了单个细胞怎么构建表面的3D框架结构。</li><li>并且，外层框架仅仅是外部大分子聚合而成，并不固定在细胞表面，维持了细胞本身的流动性等物理性能。<br><img src="/imgs/sci/rbc2.jpg"></li></ul><div class="note danger flat"><p>存在问题：<br>虽然该技术实现了对成熟红细胞的非选择性表位屏蔽，但其转化效率有限，限制了其进一步的应用。</p></div><h3 id="3-硅化红细胞"><a href="#3-硅化红细胞" class="headerlink" title="3.硅化红细胞"></a>3.硅化红细胞</h3><p>si-RBC<br>参考文献：<br>Lei C , Li Z , Ma S ,et al.Improving normothermic machine perfusion and blood transfusion through biocompatible blood silicification[J].Proceedings of the National Academy of Sciences, 2024, 121(35):12.DOI:10.1073&#x2F;pnas.2322418121.<br>受硅藻中硅基外骨骼的启发，作者通过将新鲜采集的外周红细胞与硅化溶液混合，制备了硅化红细胞（Si-RBCs）。在此混合条件下，可溶解的、单体的、不带电荷的硅酸物种与红细胞膜发生非共价相互作用，与表面通过氢键结合的水分子交换，随后转化为纳米级的共形无定形二氧化硅，这一过程由邻近蛋白质催化。</p><p><img src="/imgs/sci/rbc3.png"><br>原理如图</p><div class="note info flat"><p>具有非常多优秀性质</p></div><p><img src="/imgs/sci/rbc4.png"></p><ul><li>抗逆性好，可以实现血液近乎100%的冷冻条件下的保存</li><li>屏蔽抗原，具有通用血液潜质</li><li>具有跨物种输血的潜能<div class="timeline blue"><div class='timeline-item headline'>        <div class='timeline-item-title'>          <div class='item-circle'><p>2020</p></div>        </div>      </div><div class='timeline-item'>        <div class='timeline-item-title'>          <div class='item-circle'></div>        </div>        <div class='timeline-item-content'><p>红细胞表面3D框架</p></div>      </div></div><div class="timeline blue"><div class='timeline-item headline'>        <div class='timeline-item-title'>          <div class='item-circle'><p>2023</p></div>        </div>      </div><div class='timeline-item'>        <div class='timeline-item-title'>          <div class='item-circle'></div>        </div>        <div class='timeline-item-content'><p>硅化红细胞</p></div>      </div></div></li></ul>]]></content>
       
       
       <categories>
@@ -45,7 +139,7 @@
       
         <tags>
             
-            <tag> 通用熊猫血 </tag>
+            <tag> 审美积累 </tag>
             
         </tags>
       
@@ -236,42 +330,9 @@
     
     
     <entry>
-      <title>关于KyleJO</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<p>INTJ<br>生信小子<br>updating…</p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>归档</title>
       <link href="/archives/index.html"/>
       <url>/archives/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -302,9 +363,42 @@
     
     
     <entry>
+      <title>关于KyleJO</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<p>INTJ<br>生信小子<br>updating…</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
